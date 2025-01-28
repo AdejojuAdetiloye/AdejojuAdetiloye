@@ -1,6 +1,6 @@
 - 👋 Hi, I’m AdejojuAdetiloye
   I'm a passionate FullStack developer and specialize in  React Native, React.js, Next.js and Three.js.
-   With a background in Computer science, I am enthusiastic about creating efficient and engaging mobile applications that deliver seamless user experiences.
+   With a background in Computer science, I am enthusiastic about creating efficient and engaging mobile and web applications that deliver seamless user experiences.
 - 👀 I’m interested in building complex mobile and web applications that will solve real problems of humans and make life more fufilling
 - 🌱 I’m currently taking IBT Learning Africa Professional FullStack Development online programme, whose head-quarter is in Texas, USA.
 - 💞️ I’m looking to collaborate:
