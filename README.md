@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @AdejojuAdetiloye
-  I'm a passionate mobile developer specializing in React Native.
+- 👋 Hi, I’m AdejojuAdetiloye
+  I'm a passionate FullStack developer specializing using  React Native, React.js, Next.js and Three.js.
    With a background in Computer science, I am enthusiastic about creating efficient and engaging mobile applications that deliver seamless user experiences.
 - 👀 I’m interested in building complex mobile applications that will solve real problems of humans and make life more fufilling
 - 🌱 I’m currently learning Advanced state management techniques in React Native.
